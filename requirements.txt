@@ -1,6 +1,7 @@
 streamlit
-google-auth
+google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
-google-api-python-client
-pytube
+yt-dlp
+openai
+python-dotenv
